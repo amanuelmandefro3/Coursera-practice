@@ -1,4 +1,3 @@
-# scrimba-practice
-scrimba-practice
-#change for scrimba practice it was coursera-practice
-I like scrimba so much
+#Coursers-practice
+coursera practice
+I need to comtinue coursera practice even if i am working with scrimba
